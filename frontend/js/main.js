@@ -1,0 +1,1 @@
+console.log("CareerQuestAI frontend loaded successfully.");
